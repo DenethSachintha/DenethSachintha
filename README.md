@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deneth Sachintha</h1>
 <h3 align="center">An Enthusiastic undergraduate developer from KDU</h3>
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  
-}
+<img src="https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png" alt="Italian Trulli">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denethsachintha&label=Profile%20views&color=0e75b6&style=flat" alt="denethsachintha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denethsachintha" alt="denethsachintha" /></a> </p>
