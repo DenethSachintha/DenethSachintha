@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deneth Sachintha</h1>
 <h3 align="center">An Enthusiastic undergraduate developer from KDU</h3>
-<img src="https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png" alt="Italian Trulli">
+<img src="assets/github-header-image (2).png" style="width:100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denethsachintha&label=Profile%20views&color=0e75b6&style=flat" alt="denethsachintha" /> </p>
 
