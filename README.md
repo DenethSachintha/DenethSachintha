@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DenethSachintha&label=Profile%20views&color=0e75b6&style=flat" alt="DenethSachintha" /> </p> 
 
 ---
-## About me:
+## <img src="https://github.com/DenethSachintha/DenethSachintha/blob/main/assets/About.gif?raw=true" width ="4%"> About me:
 
 <img align="right" src="https://github.com/DenethSachintha/DenethSachintha/blob/main/assets/Right_Side.gif?raw=true" width=30%>
 
@@ -49,6 +49,15 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.typescriptlang.org" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.php.net" target="_blank">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+  </a>
+
 </p>
 
 ### <img src = "https://github.com/DenethSachintha/DenethSachintha/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
@@ -114,11 +123,15 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Android Studio" src="  https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="CodeBlocks" src="https://img.shields.io/badge/CodeBlocks-A3CEF1.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white" /></a>
     &emsp;
     <a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white" /></a>
 </p>
@@ -186,6 +199,9 @@
   <p align="center">
 	<a href="https://github.com/DenethSachintha/social-app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DenethSachintha&repo=social-app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/DenethSachintha/oily-face-care">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DenethSachintha&repo=oily-face-care&theme=tokyonight" alt="GitHub Stats" />
     	</a>	
   </p>
 </div>
